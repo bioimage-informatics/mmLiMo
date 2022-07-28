@@ -6,4 +6,4 @@
 </div>
 <br><br>
 
-##### MATLAB codes and a standalone software for Windows are availabele.
+MATLAB codes and a standalone software for Windows are availabele.
